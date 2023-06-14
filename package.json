@@ -1,0 +1,16 @@
+{
+  "name": "xltojson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "createJson": "node createJson.js",
+    "createSheets": "node createSheets.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
